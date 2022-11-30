@@ -1,6 +1,6 @@
 public with sharing class MainClass {
     public MainClass() {
-        System.debug('hello world');
+        System.debug('welcome');
 
     }
 }
